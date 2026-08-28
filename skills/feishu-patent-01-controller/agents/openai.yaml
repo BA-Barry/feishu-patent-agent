@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书专利 Agent"
+  short_description: "从飞书建立项目主账本，驱动完整的中国发明专利 AI 工作流。"
+  default_prompt: "请使用 $feishu-patent-01-controller 在飞书中启动一个发明专利项目，并建立可审计的项目主账本。"

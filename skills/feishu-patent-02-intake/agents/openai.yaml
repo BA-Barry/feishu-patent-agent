@@ -1,0 +1,4 @@
+interface:
+  display_name: "02-发明专利初始化"
+  short_description: "优先盘点并评估已有素材，推荐最合适的专利起始节点。"
+  default_prompt: "请使用 $feishu-patent-02-intake 从飞书项目主账本和材料链接完成素材盘点与阶段就绪度评估。"

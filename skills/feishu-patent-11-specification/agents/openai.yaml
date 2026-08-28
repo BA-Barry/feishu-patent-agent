@@ -1,0 +1,4 @@
+interface:
+  display_name: "11-说明书写作器"
+  short_description: "按领域完成充分公开、支持性、效果证据和超范围风险审查，并定稿摘要。"
+  default_prompt: "请使用 $feishu-patent-11-specification 撰写说明书、完成专业审查、定稿摘要并回写飞书三向对应关系。"

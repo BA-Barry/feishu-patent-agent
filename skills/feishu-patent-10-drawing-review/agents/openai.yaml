@@ -1,0 +1,4 @@
+interface:
+  display_name: "10-发明专利附图一致性校验器"
+  short_description: "对3–7张实图执行结构实质门、形式合规门、标号及差异叠加审查。"
+  default_prompt: "请使用 $feishu-patent-10-drawing-review 逐张打开飞书索引中的实图，并完成实质一致性和形式合规双重质量门。"

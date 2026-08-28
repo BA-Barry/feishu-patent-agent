@@ -1,0 +1,14 @@
+{
+  "current_skill": "01-发明专利总控",
+  "next_skill": "02-发明专利初始化",
+  "workflow": "飞书专利 Agent 匿名 Demo",
+  "project_key": "CONTEST-DEMO-001",
+  "source_files": [],
+  "deliverables": [
+    "contest/比赛适配说明.md"
+  ],
+  "open_questions": [],
+  "quality_gate_status": "pass",
+  "can_continue": true,
+  "must_stop_reason": ""
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "03-发明专利状态确认器"
+  short_description: "复核已有素材成熟度，动态选择最早需要补齐的专利节点。"
+  default_prompt: "请使用 $feishu-patent-03-router 复核飞书中的素材评估，并将项目路由到最早需要补齐的节点。"

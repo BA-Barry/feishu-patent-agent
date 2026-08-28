@@ -1,0 +1,26 @@
+# Local Codex installation and project state
+.agents/
+.patent-feishu/
+
+# Feishu/Lark CLI credentials and local configuration
+.lark-cli/
+.env
+.env.*
+*.token
+*.secret
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Generated patent deliverables and local databases
+发明专利_交付结果/
+*.db
+*.sqlite
+*.sqlite3
+
+# Local archives
+*.zip

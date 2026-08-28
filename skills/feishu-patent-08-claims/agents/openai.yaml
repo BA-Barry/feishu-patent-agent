@@ -1,0 +1,4 @@
+interface:
+  display_name: "08-权利要求书撰写器"
+  short_description: "设计引用层级并撰写不超过10项的发明专利权利要求书。"
+  default_prompt: "请使用 $feishu-patent-08-claims 为飞书项目设计保护层级和依赖树，再撰写不超过 10 项的权利要求书。"
